@@ -1,0 +1,14 @@
+http can't have state (the server doesn't remember which client did what, aka it just doesn't remember stuff)
+status codes
+1xx informational response
+2xx success
+3xx redirection
+4xx client error
+5xx server error
+difference between https and http: https requires security and stuff (s for security or something)
+
+let req = http.request(options, (response) => {
+  // do stuff
+})
+
+you can use the same url for stuff but do different things based on the http method

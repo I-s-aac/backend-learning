@@ -1,0 +1,42 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+h2 {
+  color: darkgreen;
+  font-size: 2em;
+  margin-left: 20px;
+}
+
+h3 {
+  color: darkred;
+  font-size: 1.75em;
+  margin-left: 40px;
+}
+
+h4 {
+  color: purple;
+  font-size: 1.5em;
+  margin-left: 60px;
+}
+
+h5 {
+  color: teal;
+  font-size: 1.25em;
+  margin-left: 80px;
+}
+
+h6 {
+  color: gray;
+  font-size: 1em;
+  margin-left: 100px;
+  font-style: italic;
+}
